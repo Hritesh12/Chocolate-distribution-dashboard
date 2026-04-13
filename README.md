@@ -26,10 +26,10 @@ The raw dataset was cleaned and structured for analysis. Date fields were standa
 ## Dashboard Pages
 - KPI overview
 - Time trend analysis
-- Salesperson performance
+- sales person datasales performance by region
 - Product profitability
 - Geography analysis
-- Monthly comparison
+- Top and bottom 5 sales persons data
 - Final summary dashboard
 
 ## Key Metrics
@@ -66,6 +66,10 @@ The raw dataset was cleaned and structured for analysis. Date fields were standa
 
 - Top and Bottom 5 sales persons
  <img width="1920" height="1080" alt="top and bootom 5 sales persons" src="https://github.com/user-attachments/assets/e92ba9f0-fa9d-40d7-97db-85e00f631da2" />
+
+-Team performance and sales
+<img width="1920" height="1080" alt="product sales and teams info" src="https://github.com/user-attachments/assets/79314870-f8ac-4802-b90a-be57f4ae5657" />
+
  
 ## How to Use
 Open the Power BI file from the `powerbi/` folder to explore the full report.
