@@ -2,7 +2,7 @@
 
 # Chocolate Distribution Sales & Profitability Dashboard
 
-A Power BI and SQL dashboard project analyzing chocolate sales, profit, boxes shipped, and product performance across time, region, and salesperson.
+A Power BI dashboard project analyzing chocolate distribution data, focusing on revenue, profitability, sales performance, and regional trends using DAX and data modeling techniques.
 
 ## Objective
 The goal of this project is to analyze chocolate distribution sales data and uncover business insights related to revenue, profit, top salespersons, product performance, geography, and monthly trends.
@@ -10,8 +10,8 @@ The goal of this project is to analyze chocolate distribution sales data and unc
 ## Dataset
 Chocolate distribution dataset used for dashboard analysis and reporting.
 
-## Tools Used
-Excel, SQL, Power BI
+## Tools & Technologies
+Power BI | Excel | SQL | DAX
 
 ## Data Preparation
 The raw dataset was cleaned and structured for analysis. Date fields were standardized, measures were created for sales and profit analysis, and the data model was organized into fact and dimension tables.
@@ -53,11 +53,20 @@ The raw dataset was cleaned and structured for analysis. Date fields were standa
 - Top N analysis
 - Executive dashboard design
 
+  ## Skills Demonstrated
+- Data Cleaning & Transformation
+- Data Modeling (Star Schema)
+- DAX Calculations
+- Data Visualization
+- Business Insights Generation
+
 ## Dashboard Preview
+- Chocolate Dashboard
 <img width="1920" height="1080" alt="chocolate_shipments _dashboard" src="https://github.com/user-attachments/assets/01d24915-653b-4620-aeed-71762b3b1418" />
 
-
-
+- Top and Bottom 5 sales persons
+ <img width="1920" height="1080" alt="top and bootom 5 sales persons" src="https://github.com/user-attachments/assets/e92ba9f0-fa9d-40d7-97db-85e00f631da2" />
+ 
 ## How to Use
 Open the Power BI file from the `powerbi/` folder to explore the full report.
 
