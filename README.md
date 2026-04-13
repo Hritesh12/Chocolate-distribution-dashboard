@@ -1,6 +1,6 @@
-# Chocolate-distribution-dashboard
+# Chocolate-distribution-dashboard 🍫
 
-# Chocolate Distribution Sales & Profitability Dashboard
+# Chocolate Distribution Sales & Profitability Dashboard 
 
 A Power BI dashboard project analyzing chocolate distribution data, focusing on revenue, profitability, sales performance, and regional trends using DAX and data modeling techniques.
 
